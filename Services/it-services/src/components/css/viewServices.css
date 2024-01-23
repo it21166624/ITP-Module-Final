@@ -1,0 +1,32 @@
+.top-nav {
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.nav-item ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+.nav-item ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.top-nav .sign-in button {
+    background: rgb(177, 147, 206);
+    border: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.main-tittle {
+    display: table;
+    margin: 60px auto;
+}

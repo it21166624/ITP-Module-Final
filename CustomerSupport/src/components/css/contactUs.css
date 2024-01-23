@@ -1,0 +1,58 @@
+.contact-content {
+    display: block;
+    margin: 30px auto;
+    width: 60%;
+}
+
+.contact-content .logo {
+    float: left;
+}
+
+.c-row {
+    display: flex;
+    gap: 50px;
+}
+
+.c-row .call {
+    width: 40%;
+    background: rgb(177, 147, 206);
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+h5 {
+    color: white;
+    margin-top: 5px;
+}
+
+.c-row .chat {
+    width: 40%;
+    background: rgb(177, 147, 206);
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+.c-row .email {
+    width: 40%;
+    background: rgb(177, 147, 206);
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+button {
+    background: rgb(91, 7, 139);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+button a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+button a:hover {
+    color: aliceblue;
+    text-decoration: none;
+}

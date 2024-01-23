@@ -1,0 +1,58 @@
+.rate-content {
+    display: block;
+    margin: 30px auto;
+    width: 60%;
+}
+
+.rate-content .logo {
+    float: left;
+}
+
+
+.outer {
+    background-color: rgb(177, 147, 206);
+    padding: 30px 100px 30px 30px;
+    border-radius: 20px;
+}
+
+.outer h6 {
+    color: white;
+}
+
+.col-lg-4 img {
+    margin-top: 140px;
+}
+
+.rate-right {
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 200px;
+    color: white;
+}
+
+.rate-left {
+    color: white;
+}
+
+.rate-left img {
+    margin-top: 0;
+    display: table;
+    margin: 0 auto;
+}
+
+.rate-right {
+    display: flex;
+    gap: 10px;
+    color: white;
+}
+
+.rating-rate {
+    display: flex;
+    color: white;
+}
+
+.rate-btn {
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-left: 100px;
+}

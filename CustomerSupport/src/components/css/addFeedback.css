@@ -1,0 +1,20 @@
+.content {
+    display: block;
+    margin: 30px auto;
+    width: 60%;
+}
+
+.content .logo {
+    float: right;
+}
+
+
+.outer {
+    background-color: rgb(177, 147, 206);
+    padding: 30px 100px 30px 30px;
+    border-radius: 20px;
+}
+
+.col-lg-4 img {
+    margin-top: 200px;
+}

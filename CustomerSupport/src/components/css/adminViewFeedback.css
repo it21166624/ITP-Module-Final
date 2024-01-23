@@ -1,0 +1,31 @@
+.top-tittle {
+    width: 100%;
+    background-color: rgb(7, 3, 63);
+    padding: 5px 15px;
+}
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgb(5, 1, 59);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .sidebar a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+
+a.active, a:focus {
+    color: rgb(255, 251, 250);
+    background-color: rgb(18, 87, 190);
+    border-radius: 15px;
+}
